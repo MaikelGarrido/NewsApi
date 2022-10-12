@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_hay_noticias_favoritas">¡No hay noticias favoritas!</string>
+    <string name="ok">OK</string>
+    <string name="no_hay_noticias_por_mostrar">¡No hay noticias por mostrar!</string>
+    <string name="favoritos">¡La noticia se ha agregado a favoritos!</string>
+    <string name="favoritos2">Esta noticia ahora está listada en su sección de favoritos</string>
+    <string name="remove">¡La noticia se ha eliminado!</string>
+    <string name="remove2">La noticia ha sido eliminada de la bases de datos</string>
+</resources>
